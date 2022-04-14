@@ -66,6 +66,8 @@ img {
     background-image: url('../img/string-beans.jpeg');
     border-top: #77a466 solid 3px;
     border-bottom: #77a466 solid 3px;
+    width: 1200px;
+    height: 400px;
 }
 
 h3 {
