@@ -63,7 +63,7 @@ nav ul li a {
 /**********MAIN************/
 
 img {
-    background-image: url "..img/string-beans.jpeg";
+    background-image: url("..img/string-beans.jpeg");
     border-top: #77a466 solid 3px;
     border-bottom: #77a466 solid 3px;
 }
